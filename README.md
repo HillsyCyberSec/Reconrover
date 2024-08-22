@@ -30,6 +30,7 @@ Run both Gobuster & Subfinder against some standard Seclists, The script will al
 Once the script has completed you will find the outputs recorded in the directory in which the script was run.
 
 In this instance we have the folder "ScriptTest"
+
 ![image](https://github.com/user-attachments/assets/082a01d4-eb92-4546-87bf-d7b6f878826e)
 
 Depending on your options (single scan or file) you will find a folder(s) inside the folder amended with the IP address or domain of each asset, in this case i've renamed mine to [IP1] and [IP2]
